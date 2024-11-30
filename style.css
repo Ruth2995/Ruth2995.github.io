@@ -28,20 +28,27 @@ header{
     /* color: #ce7095; */
 }
 .btn-proyecto{
-    text-decoration: none;
+    
     color: #ce7095;
+    background-color: #ce7095;
+}
+.btn-proyecto a{
+    text-decoration: none;
+    color: black;
 }
 .card .card-title{
     color: #855e6e;
 }
 #contacto{
     background-color: #ffb2c1;
-    color: #ce7095;
 }
 /* creo esta se quita */
 #contacto p{
     color: #855e6e;
 }
+/* .contacto{
+    background-color: #ffb2c1;
+} */
 #btn-contacto{
     background-color: #ce7095;
 }
@@ -56,5 +63,5 @@ footer p{
 }
 footer p a{
     text-decoration: none;
-    color: black;
+    color: #ce7095;
 }
